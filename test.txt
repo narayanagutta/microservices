@@ -1,10 +1,2 @@
- Volume in drive C is OS
- Volume Serial Number is D074-1B43
+New Changes
 
- Directory of C:\Users\ng185109\Desktop\MyProject
-
-16-Oct-19  04:14 PM    <DIR>          .
-16-Oct-19  04:14 PM    <DIR>          ..
-16-Oct-19  04:14 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  910,320,779,264 bytes free
